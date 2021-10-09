@@ -4654,10 +4654,10 @@ escodegen@^2.0.0:
   optionalDependencies:
     source-map "~0.6.1"
 
-eslint-config-jgchk@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.npmjs.org/eslint-config-jgchk/-/eslint-config-jgchk-1.0.6.tgz#22599e673e9cad6a26439d240d304e53f488eca4"
-  integrity sha512-iM5NMsK3aUK7OVfvQjA7MAv5Mikt2YrJGgUMQsXPlJOFRwZPcvoD9ZdLJqe5Ect/SL8yu6OSZtZN3KFrtKMKYg==
+eslint-config-jgchk@^1.0.7:
+  version "1.0.7"
+  resolved "https://registry.npmjs.org/eslint-config-jgchk/-/eslint-config-jgchk-1.0.7.tgz#63bf3d24c299c629a60b4cb1dc127075776df606"
+  integrity sha512-F+eaqBhBy5ISuPu8yFV+dtfI/N55JzCeYMaa2JLtKoMt7zxvz/bP3ZBh8h/oZQOfqgyItPiV0tFIacWrGT1tAA==
   dependencies:
     "@typescript-eslint/eslint-plugin" "^4.33.0"
     "@typescript-eslint/parser" "^4.33.0"
