@@ -43,6 +43,7 @@
     "eslint-plugin-unicorn": "^36.0.0",
     "husky": ">=6",
     "lint-staged": ">=10",
+    "prettier": "^2.4.1",
     "stylelint": "^13.13.1",
     "stylelint-config-jgchk": "^1.0.1"
   },
